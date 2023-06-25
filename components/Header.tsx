@@ -5,7 +5,7 @@ const Header = () => {
    <>
    <header className='bg-gray-50'>
     <div className='xl:container xl:mx-auto flex flex-col items-center sm:flex-row sm:justify-between text-center py-3'>
-        <div>
+        <div className='md:flex-none w-96 order-2 sm:order-1'>
             <input type="text" placeholder='search' />
         </div>
         <div>
