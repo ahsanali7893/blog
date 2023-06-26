@@ -8,7 +8,7 @@ const Header = () => {
         <div className='md:flex-none w-96 order-2 sm:order-1'>
             <input type="text" placeholder='search' />
         </div>
-        <div>   
+        <div className='shrink w-80 sm:order-2'>   
             <a>Design</a>
         </div>
         <div>
