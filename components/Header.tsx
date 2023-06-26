@@ -11,7 +11,7 @@ const Header = () => {
         <div className='shrink w-80 sm:order-2'>   
             <a>Design</a>
         </div>
-        <div>
+        <div className='w-96 order-3 justify-center flex'>
             <div className="flex">
                 <a>Facebook</a>
                 <a>Twitter</a>
