@@ -17,7 +17,7 @@ const Header = () => {
                 <a>Twitter</a>
                 <a>Youtube</a>
             </div>
-        </div>
+        </div>  
     </div>
    </header>
    </>
